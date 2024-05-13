@@ -6,7 +6,7 @@ See demo here: [Demo](https://www.youtube.com/shorts/c_6ih5lV6vI)
 
 File structure:
 
-- `Monday_Brain.ino`: Main program
+- `main.ino`: Main program
 
 - `homingFunction.ino`: Function for returning the arm to its home position
 
